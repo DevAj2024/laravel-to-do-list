@@ -1,3 +1,5 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
 ## Welcome to To-Do!
 <p class="lead text-body-secondary">Your ultimate website designed to help you stay organized, focused, and productive. Whether you're managing daily tasks, planning a project, or setting personal goals, To-Do simplifies the process by providing an intuitive platform for task management.</p>
 <p class="lead text-body-secondary">Say goodbye to scattered notes and forgotten tasks—To Do keeps everything in one place so you can focus on getting things done efficiently. Get started today and take control of your to-do list!</p>
